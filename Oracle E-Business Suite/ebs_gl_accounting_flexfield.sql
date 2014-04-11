@@ -1,3 +1,4 @@
+-- GL Accounting  Flexfields
 select
     f.application_id,
     f.id_flex_code,
